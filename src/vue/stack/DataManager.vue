@@ -1,15 +1,15 @@
 <template>
-    <slot v-if="settings"/>
+    <slot v-if="settings" />
 </template>
 
 <script setup>
-import {onMounted, provide, ref} from "vue"
+import { onMounted, provide, ref } from "vue"
+import { useUtils } from "/src/composables/utils.js"
 import Category from "/src/models/Category.js"
 import Locales from "/src/models/Locales.js"
 import Profile from "/src/models/Profile.js"
 import Section from "/src/models/Section.js"
 import Settings from "/src/models/Settings.js"
-import {useUtils} from "/src/composables/utils.js"
 
 const utils = useUtils()
 const basePath = import.meta.env.BASE_URL.replace(/\/$/, '')
@@ -49,12 +49,12 @@ const _parseSectionsAndCategories = (sectionsList, categoriesList) => {
     const parsedSections = []
     const parsedCategories = []
 
-    for(const categoryListItem of categoriesList) {
+    for (const categoryListItem of categoriesList) {
         const category = new Category(categoryListItem['id'], categoryListItem['faIcon'], categoryListItem['locales'])
         parsedCategories.push(category)
     }
 
-    for(const sectionsListItem of sectionsList) {
+    for (const sectionsListItem of sectionsList) {
         const section = new Section(
             sectionsListItem['id'],
             parsedSections.length === 0,
@@ -65,7 +65,7 @@ const _parseSectionsAndCategories = (sectionsList, categoriesList) => {
         )
 
         const sectionCategory = parsedCategories.find(category => category.id === sectionsListItem['categoryId'])
-        if(!sectionCategory) {
+        if (!sectionCategory) {
             throw new Error(`The section with id "${section.id}" has an invalid category id. Make sure the category with id "${sectionsListItem['categoryId']}" exists.`)
         }
 
@@ -79,24 +79,24 @@ const _parseSectionsAndCategories = (sectionsList, categoriesList) => {
 }
 
 const _validateSectionsAndCategories = () => {
-    if(utils.hasDuplications(sections.value, "id")) {
+    if (utils.hasDuplications(sections.value, "id")) {
         throw new Error("Each section must have an unique id!")
     }
 
-    if(utils.hasDuplications(categories.value, "id")) {
+    if (utils.hasDuplications(categories.value, "id")) {
         throw new Error("Each category must have an unique id!")
     }
 }
 
 const _loadSectionJsonFiles = async () => {
-    for(const section of sections.value) {
+    for (const section of sections.value) {
         const path = section.jsonPath
-        if(!path)
+        if (!path)
             continue
 
         const json = await _loadJson(path)
-        const articles =  json['articles']
-        if(!articles) {
+        const articles = json['articles']
+        if (!articles) {
             throw new Error(`${path} doesn't have an articles array.`)
         }
 
@@ -106,8 +106,11 @@ const _loadSectionJsonFiles = async () => {
 
 const _loadJson = async (path) => {
     try {
-        // const response = await fetch(basePath + "/data/" + path)
-        const response = await fetch("./data/" + path) //aws直接部屬在根目錄
+        // 移除 path 開頭的所有斜線，避免組出 // 或 /data//xxx.json
+        const normalizedPath = path.replace(/^\/+/, '');
+
+        const response = await fetch(`./data/${normalizedPath}`); // 相對路徑保險
+
         return await response.json()
     }
     catch (e) {
