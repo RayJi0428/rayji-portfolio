@@ -106,7 +106,8 @@ const _loadSectionJsonFiles = async () => {
 
 const _loadJson = async (path) => {
     try {
-        const response = await fetch(basePath + "/data/" + path)
+        // const response = await fetch(basePath + "/data/" + path)
+        const response = await fetch("./data/" + path) //aws直接部屬在根目錄
         return await response.json()
     }
     catch (e) {
