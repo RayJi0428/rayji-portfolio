@@ -26,18 +26,6 @@
                             "institution": "Harvard University"
                         },
 
-                        "es": {
-                            "title": "Mejor Proyecto de Graduación",
-                            "description": "Trabajo destacado en proyecto de graduación; reconocido por innovación e impacto.",
-                            "institution": "Harvard University"
-                        },
-
-                        "fr": {
-                            "title": "Meilleur Projet de Fin d'Études",
-                            "description": "Travail exceptionnel sur le projet de fin d'études; reconnu pour l'innovation et l'impact.",
-                            "institution": "Harvard University"
-                        },
-
                         "zh": {
                             "title": "最佳毕业项目",
                             "description": "在毕业项目上的杰出工作；因创新和影响力受到认可。",
@@ -57,18 +45,6 @@
                             "title": "2nd Place – Alumni UX Hackathon",
                             "description": "Secured 2nd place in Harvard's Alumni UX hackathon; demonstrated creative problem-solving.",
                             "institution": "Harvard University"
-                        },
-
-                        "es": {
-                            "title": "2do Lugar - Hackathon Alumni de UX",
-                            "description": "Obtuvo el 2do lugar en el Hackathon Alumni de UX de Harvard; demostró solución creativa de problemas.",
-                            "institution": "Universidad de Harvard"
-                        },
-
-                        "fr": {
-                            "title": "2e Place - Hackathon UX des Anciens",
-                            "description": "Obtenu la 2e place au hackathon UX des anciens de Harvard; démontré la résolution créative de problèmes.",
-                            "institution": "Université Harvard"
                         },
 
                         "zh": {
@@ -94,18 +70,6 @@
                             "institution": "Adobe Inc."
                         },
 
-                        "es": {
-                            "title": "1er Lugar - Adobe Creative Jam",
-                            "description": "Obtuvo el 1er lugar en Adobe Creative Jam; mostró excelencia en diseño y colaboración.",
-                            "institution": "Adobe Inc."
-                        },
-
-                        "fr": {
-                            "title": "1ère Place - Adobe Creative Jam",
-                            "description": "Obtenu la 1ère place à Adobe Creative Jam; mis en avant l'excellence en design et la collaboration.",
-                            "institution": "Adobe Inc."
-                        },
-
                         "zh": {
                             "title": "第一名 - Adobe创意盛宴",
                             "description": "在Adobe创意盛宴中获得第一名；展示了卓越的设计和合作。",
@@ -124,18 +88,6 @@
                         "en": {
                             "title": "Article Mention – UX Contribution",
                             "description": "Featured in Forbes for outstanding UX contributions; impactful designs and insights.",
-                            "institution": "Forbes"
-                        },
-
-                        "es": {
-                            "title": "Mención en Artículo - Contribución a UX",
-                            "description": "Destacado en Forbes por sobresalientes contribuciones a UX; diseños e ideas impactantes.",
-                            "institution": "Forbes"
-                        },
-
-                        "fr": {
-                            "title": "Mention d'Article - Contribution UX",
-                            "description": "Mis en avant dans Forbes pour d'excellentes contributions UX ; designs et idées impactantes.",
                             "institution": "Forbes"
                         },
 
@@ -178,18 +130,6 @@
                             "institution": "Google"
                         },
 
-                        "es": {
-                            "title": "Certificación de Diseño UX de Google",
-                            "description": "Certificado por Google en diseño UX; demostró experiencia en diseño centrado en el usuario.",
-                            "institution": "Google"
-                        },
-
-                        "fr": {
-                            "title": "Certification Google UX Design",
-                            "description": "Certifié par Google en conception UX ; a démontré une expertise en design centré sur l'utilisateur.",
-                            "institution": "Google"
-                        },
-
                         "zh": {
                             "title": "Google用户体验设计认证",
                             "description": "通过Google用户体验设计认证；展示了用户中心设计的专业知识。",
@@ -213,18 +153,6 @@
                             "institution": "Udacity"
                         },
 
-                        "es": {
-                            "title": "Nanogrado en UI/UX",
-                            "description": "Completó el nanogrado completo en UI/UX en Udemy; adquirió habilidades prácticas.",
-                            "institution": "Udacity"
-                        },
-
-                        "fr": {
-                            "title": "Nanodiplôme UI/UX",
-                            "description": "A suivi le nanodiplôme complet en UI/UX sur Udemy ; a acquis des compétences pratiques.",
-                            "institution": "Udacity"
-                        },
-
                         "zh": {
                             "title": "UI/UX纳米学位",
                             "description": "在Udemy完成了全面的UI/UX纳米学位；获得了实际技能。",
@@ -245,18 +173,6 @@
                         "en": {
                             "title": "Material Design Certification",
                             "description": "Earned Material Design certification; demonstrated proficiency in modern design principles.",
-                            "institution": "Google"
-                        },
-
-                        "es": {
-                            "title": "Certificación de Material Design",
-                            "description": "Obtuvo certificación de Material Design; demostró competencia en principios de diseño moderno.",
-                            "institution": "Google"
-                        },
-
-                        "fr": {
-                            "title": "Certification Material Design",
-                            "description": "A obtenu la certification Material Design ; a démontré sa maîtrise des principes de design modernes.",
                             "institution": "Google"
                         },
 

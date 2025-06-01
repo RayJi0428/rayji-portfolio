@@ -27,24 +27,6 @@
                             "tags": []
                         },
 
-                        "es": {
-                            "title": "Programa Preuniversitario en Informática",
-                            "description": "Completó un programa preparatorio que cubría temas fundamentales de informática como programación, algoritmos y estructuras de datos. Adquirió experiencia práctica en resolución de problemas y pensamiento lógico.",
-                            "province": "Toronto",
-                            "country": "Canadá",
-                            "institution": "Udacity",
-                            "tags": []
-                        },
-
-                        "fr": {
-                            "title": "Programme Pré-Universitaire en Informatique",
-                            "description": "A achevé un programme préparatoire couvrant les bases de l'informatique, notamment la programmation, les algorithmes et les structures de données. Acquis une expérience pratique en résolution de problèmes et en pensée logique.",
-                            "province": "Toronto",
-                            "country": "Canada",
-                            "institution": "Udacity",
-                            "tags": []
-                        },
-
                         "zh": {
                             "title": "大学预科计算机科学课程",
                             "description": "完成了一项涵盖计算机科学基础知识的预科课程，如编程、算法和数据结构。获得了解决问题和逻辑思维的实践经验。",
@@ -70,24 +52,6 @@
                             "description": "Completed a technical course focusing on software development fundamentals, including object-oriented programming, web development, and database management. Developed several projects applying real-world coding skills.",
                             "province": "San Francisco",
                             "country": "US",
-                            "institution": "Codecademy",
-                            "tags": []
-                        },
-
-                        "es": {
-                            "title": "Curso Técnico en Programación",
-                            "description": "Completó un curso técnico centrado en los fundamentos del desarrollo de software, incluyendo programación orientada a objetos, desarrollo web y gestión de bases de datos. Desarrolló varios proyectos aplicando habilidades de codificación en el mundo real.",
-                            "province": "San Francisco",
-                            "country": "EE.UU.",
-                            "institution": "Codecademy",
-                            "tags": []
-                        },
-
-                        "fr": {
-                            "title": "Cours Technique en Programmation",
-                            "description": "A suivi un cours technique axé sur les fondamentaux du développement logiciel, y compris la programmation orientée objet, le développement web et la gestion de bases de données. A développé plusieurs projets appliquant des compétences de codage en situation réelle.",
-                            "province": "San Francisco",
-                            "country": "États-Unis",
                             "institution": "Codecademy",
                             "tags": []
                         },
@@ -121,24 +85,6 @@
                             "tags": []
                         },
 
-                        "es": {
-                            "title": "Licenciatura en Diseño Gráfico con Énfasis en UX",
-                            "description": "Graduado con una sólida formación en diseño gráfico con especialización en diseño de experiencia de usuario. Adquirió experiencia en narración visual, diseño de interfaz de usuario y pensamiento de diseño colaborativo.",
-                            "province": "Massachusetts",
-                            "country": "EE. UU",
-                            "institution": "Universidad de Harvard",
-                            "tags": []
-                        },
-
-                        "fr": {
-                            "title": "Baccalauréat en Design Graphique avec Accent sur l'UX",
-                            "description": "Diplômé avec une base solide en design graphique tout en se spécialisant dans la conception de l'expérience utilisateur. Acquis une expertise en narration visuelle, en design d'interface utilisateur et en réflexion collaborative sur la conception.",
-                            "province": "Massachusetts",
-                            "country": "États-Unis",
-                            "institution": "Université Harvard",
-                            "tags": []
-                        },
-
                         "zh": {
                             "title": "平面设计学士学位，强调 UX",
                             "description": "毕业于平面设计领域，专攻用户体验设计，掌握了视觉叙事、用户界面设计和协作式设计思维方面的专业知识。",
@@ -165,24 +111,6 @@
                             "province": "",
                             "country": "France",
                             "institution": "University of Paris",
-                            "tags": []
-                        },
-
-                        "es": {
-                            "title": "Maestría en Interacción Humano-Computadora",
-                            "description": "Completó un programa intensivo centrado en los principios de diseño centrado en el usuario, pruebas de usabilidad y diseño de interacción. Desarrolló habilidades en la creación de wireframes, prototipado y metodologías de investigación de usuarios.",
-                            "province": "",
-                            "country": "Francia",
-                            "institution": "Universidad de París",
-                            "tags": []
-                        },
-
-                        "fr": {
-                            "title": "Master en Interaction Humain-Ordinateur",
-                            "description": "A achevé un programme intensif axé sur les principes de conception centrés sur l'utilisateur, les tests de convivialité et la conception d'interaction. Développé des compétences en wireframing, en prototypage et en méthodologies de recherche utilisateur.",
-                            "province": "",
-                            "country": "France",
-                            "institution": "Université de Paris",
                             "tags": []
                         },
 

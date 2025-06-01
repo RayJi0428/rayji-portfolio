@@ -31,16 +31,6 @@
                             "description": "Time spent with cherished loved ones.",
                             "level": null
                         },
-                        "es": {
-                            "title": "Familia",
-                            "description": "Tiempo con seres queridos apreciados.",
-                            "level": null
-                        },
-                        "fr": {
-                            "title": "Famille",
-                            "description": "Temps passé avec des proches chéris.",
-                            "level": null
-                        },
                         "zh": {
                             "title": "家人和朋友",
                             "description": "与珍爱的亲人共度时光，创造终身难忘的回忆。",
@@ -60,16 +50,6 @@
                         "en": {
                             "title": "My Projects",
                             "description": "Pursuing my creative endeavors.",
-                            "level": null
-                        },
-                        "es": {
-                            "title": "Mis Proyectos",
-                            "description": "Persiguiendo mis proyectos creativos.",
-                            "level": null
-                        },
-                        "fr": {
-                            "title": "Mes Projets",
-                            "description": "Poursuivre mes projets créatifs.",
                             "level": null
                         },
                         "zh": {
@@ -93,16 +73,6 @@
                             "description": "Indulging in tranquility, unwinding the stresses of life.",
                             "level": null
                         },
-                        "es": {
-                            "title": "Relajación",
-                            "description": "Disfrutando de la tranquilidad, deshaciendo el estrés de la vida.",
-                            "level": null
-                        },
-                        "fr": {
-                            "title": "Détente",
-                            "description": "S'adonner à la tranquillité, dénouer les tensions de la vie.",
-                            "level": null
-                        },
                         "zh": {
                             "title": "放松",
                             "description": "沉浸在宁静中，舒缓生活的压力。",
@@ -122,16 +92,6 @@
                         "en": {
                             "title": "Studying",
                             "description": "Embarking on a continuous journey of learning.",
-                            "level": null
-                        },
-                        "es": {
-                            "title": "Estudio",
-                            "description": "Embarcando en un viaje continuo de aprendizaje.",
-                            "level": null
-                        },
-                        "fr": {
-                            "title": "Études",
-                            "description": "Entamer un voyage continu d'apprentissage.",
                             "level": null
                         },
                         "zh": {
@@ -155,16 +115,6 @@
                             "description": "Dedicating time to physical well-being.",
                             "level": null
                         },
-                        "es": {
-                            "title": "Ejercicio",
-                            "description": "Dedicando tiempo al bienestar físico.",
-                            "level": null
-                        },
-                        "fr": {
-                            "title": "Exercice",
-                            "description": "Consacrer du temps au bien-être physique.",
-                            "level": null
-                        },
                         "zh": {
                             "title": "锻炼",
                             "description": "致力于身体健康，培养健康的生活方式。",
@@ -186,16 +136,6 @@
                             "description": "Creating culinary masterpieces.",
                             "level": null
                         },
-                        "es": {
-                            "title": "Cocina",
-                            "description": "Creando obras maestras culinarias.",
-                            "level": null
-                        },
-                        "fr": {
-                            "title": "Cuisine",
-                            "description": "Créer des chefs-d'œuvre culinaires.",
-                            "level": null
-                        },
                         "zh": {
                             "title": "烹饪",
                             "description": "创造烹饪杰作，在每道菜肴中注入风味。",
@@ -212,12 +152,6 @@
             "locales": {
                 "en": {
                     "title": "Side pursuits"
-                },
-                "es": {
-                    "title": "Exploraciones"
-                },
-                "fr": {
-                    "title": "Intérêts annexes"
                 },
                 "zh": {
                     "title": "额外兴趣"
@@ -245,16 +179,6 @@
                             "description": "Proficient in crafting user-centric digital experiences. Adept at making technology intuitive and accessible, enhancing user satisfaction.",
                             "level": null
                         },
-                        "es": {
-                            "title": "Diseño de Experiencia de Usuario",
-                            "description": "Destacada habilidad en crear experiencias digitales centradas en el usuario. Experto en hacer que la tecnología sea intuitiva y accesible, mejorando la satisfacción del usuario.",
-                            "level": null
-                        },
-                        "fr": {
-                            "title": "Conception d'Expérience Utilisateur",
-                            "description": "Compétent dans la création d'expériences numériques centrées sur l'utilisateur. Habile à rendre la technologie intuitive et accessible, améliorant la satisfaction des utilisateurs.",
-                            "level": null
-                        },
                         "zh": {
                             "title": "用户体验设计",
                             "description": "擅长创造以用户为中心的数字体验。精通使技术直观易用，提升用户满意度。",
@@ -274,16 +198,6 @@
                         "en": {
                             "title": "Programming",
                             "description": "Exploring code, algorithms, and building software solutions for real-world challenges.",
-                            "level": null
-                        },
-                        "es": {
-                            "title": "Programación",
-                            "description": "Explorar código, algoritmos y desarrollar soluciones de software para desafíos del mundo real.",
-                            "level": null
-                        },
-                        "fr": {
-                            "title": "Programmation",
-                            "description": "Exploration du code, des algorithmes et création de solutions logicielles pour des défis réels.",
                             "level": null
                         },
                         "zh": {
@@ -307,16 +221,6 @@
                             "description": "Playing instruments, composing, and embracing the harmony of diverse musical genres.",
                             "level": null
                         },
-                        "es": {
-                            "title": "Música",
-                            "description": "Tocar instrumentos, componer y abrazar la armonía de diversos géneros musicales.",
-                            "level": null
-                        },
-                        "fr": {
-                            "title": "Musique",
-                            "description": "Jouer d'instruments, composer et apprécier l'harmonie de genres musicaux variés.",
-                            "level": null
-                        },
                         "zh": {
                             "title": "音乐",
                             "description": "演奏乐器，作曲，融合多种音乐流派的和谐。",
@@ -336,16 +240,6 @@
                         "en": {
                             "title": "User Research",
                             "description": "Delving into user behavior and insights to shape effective design strategies.",
-                            "level": null
-                        },
-                        "es": {
-                            "title": "Investigación de Usuarios",
-                            "description": "Profundizar en el comportamiento y perspectivas del usuario para definir estrategias de diseño efectivas.",
-                            "level": null
-                        },
-                        "fr": {
-                            "title": "Recherche Utilisateur",
-                            "description": "Explorer le comportement et les perceptions des utilisateurs pour façonner des stratégies de conception efficaces.",
                             "level": null
                         },
                         "zh": {
@@ -369,16 +263,6 @@
                             "description": "Crafting interactive web interfaces using modern technologies for seamless user experiences.",
                             "level": null
                         },
-                        "es": {
-                            "title": "Desarrollo Front-End",
-                            "description": "Elaborar interfaces web interactivas utilizando tecnologías modernas para experiencias de usuario fluidas.",
-                            "level": null
-                        },
-                        "fr": {
-                            "title": "Développement Frontal",
-                            "description": "Conception d'interfaces web interactives utilisant des technologies modernes pour des expériences utilisateur fluides.",
-                            "level": null
-                        },
                         "zh": {
                             "title": "前端开发",
                             "description": "使用现代技术打造交互式网页界面，实现无缝的用户体验。",
@@ -398,16 +282,6 @@
                         "en": {
                             "title": "Visual Arts",
                             "description": "Exploring visual aesthetics, graphic design, and expressing ideas through artistic creativity.",
-                            "level": null
-                        },
-                        "es": {
-                            "title": "Artes Visuales",
-                            "description": "Explorar la estética visual, el diseño gráfico y expresar ideas a través de la creatividad artística.",
-                            "level": null
-                        },
-                        "fr": {
-                            "title": "Arts Visuels",
-                            "description": "Exploration de l'esthétique visuelle, du design graphique et expression d'idées par la créativité artistique.",
                             "level": null
                         },
                         "zh": {

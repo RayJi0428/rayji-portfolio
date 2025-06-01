@@ -1,83 +1,57 @@
 {
-    "name": "Roy Sheppard",
+    "name": "Ray Ji",
     "profilePictureUrl": "images/pictures/avatar.png",
 
     "locales": {
         "en": {
             "credits": "Designed by <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "UX Designer"
+            "role": "Programmer"
         },
-
-        "es": {
-            "credits": "Hecho por <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Designer de UX"
-        },
-
-        "fr": {
-            "credits": "Conçu par <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Designer UX"
-        },
-
         "zh": {
-            "name": "罗伊谢帕德",
+            "name": "紀智睿",
             "credits": "设计：<strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "用户体验设计师"
+            "role": "程式設計師"
         }
     },
 
     "contactOptions": [
-        {
-            "id": "address",
-            "value": "123 Main Street, Cupertino, CA 01234",
-            "valueShort": "Cupertino – CA",
-            "faIcon": "fa-regular fa-map",
-            "href": null
-        },
 
         {
             "id": "email",
-            "value": "roy.sheppard@genius.com",
-            "valueShort": "roy.sheppard@genius.com",
+            "value": "cheesray0428@gmail.com",
+            "valueShort": "cheesray0428@gmail.com",
             "faIcon": "fa-regular fa-envelope",
-            "href": "mailto:roy.sheppard@genius.com"
-        },
-
-        {
-            "id": "facebook",
-            "value": "Roy Sheppard",
-            "valueShort": "Roy S.",
-            "faIcon": "fa-brands fa-facebook",
-            "href": "https://facebook.com"
+            "href": "mailto:cheesray0428@gmail.com"
         },
 
         {
             "id": "github",
-            "value": "@roy.sheppard.official",
-            "valueShort": "@roy.sheppard.official",
+            "value": "@RayJi0428",
+            "valueShort": "@RayJi0428",
             "faIcon": "fa-brands fa-github",
-            "href": "https://github.com"
+            "href": "https://github.com/RayJi0428"
         },
 
         {
             "id": "instagram",
-            "value": "@roy.sheppard.official",
-            "valueShort": "@roy.sheppard.official",
+            "value": "@cheeserayx",
+            "valueShort": "@cheeserayx",
             "faIcon": "fa-brands fa-instagram",
-            "href": "https://instagram.com"
+            "href": "https://www.instagram.com/cheeserayx/"
         },
 
         {
             "id": "linkedin",
-            "value": "@roy.sheppard.official",
-            "valueShort": "@roy.sheppard.official",
+            "value": "@chih-jui-chi-045abb147",
+            "valueShort": "@chih-jui-chi-045abb147",
             "faIcon": "fa-brands fa-linkedin",
-            "href": "https://linkedin.com"
+            "href": "https://www.linkedin.com/in/chih-jui-chi-045abb147/"
         },
 
         {
             "id": "phone",
-            "value": "+1 (123) 456-7890",
-            "valueShort": "(123) 456-7890",
+            "value": "+886 912-170-428",
+            "valueShort": "+886 912-170-428",
             "faIcon": "fa-brands fa-whatsapp",
             "href": "tel:1234567890"
         }
