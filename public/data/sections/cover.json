@@ -15,11 +15,11 @@
                     "id": 1,
                     "locales": {
                         "en": {
-                            "description": "I've been a UX designer for 8 years, crafting user-friendly interfaces that feel natural, intuitive, and seamless across different devices. My passion lies in designing digital experiences that not only look great but also function effortlessly, making interactions smoother and more enjoyable."
+                            "description": "I am from Taichung and have over 10 years of experience in software development. Recently, I stepped down from a management role to return to hands-on programming and continuously learn new technologies. Currently, I work at Wuju, focusing on game engine architecture and new game development, consistently applying my expertise to improve product quality and performance."
                         },
 
                         "zh": {
-                            "description": "我做 UX 设计已经 8 年了，专注于打造直观、自然且在不同设备上都流畅的用户界面。我热衷于设计既美观又高效的数字体验，让交互变得更加顺畅和愉悦。"
+                            "description": "我來自台中市，擁有超過10年的程式開發經驗。近期離開管理職，回到第一線專注於學習新技術與撰寫程式。目前在珷琚公司負責遊戲底層架構及新遊戲開發，持續發揮專業能力，提升產品品質與效能。"
                         }
                     }
                 },
@@ -28,11 +28,11 @@
                     "id": 2,
                     "locales": {
                         "en": {
-                            "description": "I believe that good design should enhance people's lives, helping them navigate technology with ease and confidence. Let’s work together to bring ideas to life and build something truly amazing!"
+                            "description": "I am proactive and eager to challenge myself, enjoying the exploration of new technologies and cross-disciplinary learning. Skilled in problem analysis and resolution, I am passionate about simplifying complex tasks through programming to boost team efficiency. I also excel at cross-department communication and collaboration, with strong execution skills and a strong sense of responsibility."
                         },
 
                         "zh": {
-                            "description": "我坚信优秀的设计应该提升人们的生活，让他们能够轻松、自信地使用科技。无论是网站、应用还是复杂系统，我都致力于打造能真正与用户产生深层连接的产品。让我们携手合作，将想法变为现实，创造非凡的作品！"
+                            "description": "我積極主動，勇於挑戰自我，樂於嘗試新技術並跨領域學習。善於分析並解決問題，熱衷用程式簡化繁瑣流程，提升團隊整體效率，同時擅長跨部門溝通協作，具備強烈的執行力與責任感。"
                         }
                     }
                 }
